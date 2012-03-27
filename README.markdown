@@ -2,7 +2,7 @@ VespolinaProductBundle
 ======================
 
 The VespolinaProductBundle is part of vespolina package.
-It provides functionality for products on an e-commerce ecosystem.
+It provides functionality for products on an e-commerce ecosystem. 
 
 Features include:
 
